@@ -1,8 +1,7 @@
 6095a38542286376f6eb2a203f253dc4c31ddeda  src/iozone/iozone3_397.tar
 7302792dcb1bd7aeba032fef6d3dcc310e4d113f  src/iperf/iperf-2.0.5.tar.gz
 8dcc8888fb27232eb8f76c11cc890f1c3c483804  src/mpich2/mpich2-1.4.1p1.tar.gz
-9d24b6969d73605904855eb32d40d6b07e231932  src/openmpi/openmpi-1.4.3.tar.bz2
-694fd3bac911cdb22f77175884d819b6fea871df  src/openmpi/openmpi-1.6.2.tar.bz2
+683fecac252a6139fbf538188d8b35454425c412  src/openmpi/openmpi-1.10.0.tar.bz2
 40f1ad9a3262cac513e3ec4982826ba6f825f81e  src/pvm/pvm3-examples.tar
 5c58f3db22aa26b3801eb1e01d5bc6dc9c261b6d  src/RPMS/pvm-3.4.6-1.el6.i686.rpm
 9a662be82390cdae30406b1dee57e299d54634c5  src/RPMS/pvm-3.4.6-1.el6.x86_64.rpm

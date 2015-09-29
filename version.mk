@@ -1,5 +1,5 @@
 ROLLNAME	= hpc
-RELEASE		= 0
+RELEASE		= 1
 COLOR		= green
 
 REDHAT.ROOT	= $(PWD)
